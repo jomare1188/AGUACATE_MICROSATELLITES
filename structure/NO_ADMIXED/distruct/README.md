@@ -2,5 +2,7 @@
 ## For laboratorio de biologia comparativa CIB  
 ## Software needed distructLinux1.1  
 ## Need to configure drawparams, .indivq, .languages, .names, .perm, .ps  
-![alt text] (./NO_ADMIXTURE_aguacate.png)
-   
+
+<p align="center">
+  <img width="800" height="600" src="https://raw.githubusercontent.com/jomare1188/AGUACATE_MICROSATELLITES/master/structure/NO_ADMIXED/distruct/NO_ADMIXTURE_aguacate.png">
+</p>
