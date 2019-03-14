@@ -2,5 +2,5 @@
 ## Software Needed  
 ## structureHarvester.py v0.6.94  
 ## R  
-![alt text] (https://raw.githubusercontent.com/jomare1188/AGUACATE_MICROSATELLITES/master/structure/NO_ADMIXED/harvester/evanno.png)
+![alt text] (./evanno.png)
 
