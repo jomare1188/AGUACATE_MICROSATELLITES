@@ -1,0 +1,194 @@
+# This document produced by structureHarvester core version vA.2 July 2014
+# http://www.structureharvester.com/
+# https://github.com/dentearl/structureHarvester/
+# http://taylor0.biology.ucla.edu/structureHarvester
+# http://users.soe.ucsc.edu/~dearl/software/structureHarvester
+# Written by Dent Earl, dearl (a) soe ucsc edu.
+# CITATION:
+# Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+# STRUCTURE HARVESTER: a website and program for visualizing
+# STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+# Core version: vA.2 July 2014
+# File generated at 2019-Mar-13 23:49:08 -05
+#
+
+##########
+# K	Reps	mean est. LnP(Data)	stdev est. LnP(Data)
+1	10	-4084.350000	0.126930
+2	10	-3819.510000	0.191195
+3	10	-3771.470000	0.449815
+4	10	-3746.210000	5.817111
+5	10	-3737.390000	0.595259
+6	10	-3740.690000	0.690330
+7	10	-3747.110000	0.896227
+8	10	-3748.100000	0.773161
+9	10	-3747.460000	0.856608
+10	10	-3746.800000	0.713364
+11	10	-3745.500000	0.380058
+12	10	-3744.730000	0.541705
+13	10	-3744.070000	0.740945
+14	10	-3743.410000	0.650555
+15	10	-3747.700000	15.049843
+
+##########
+# File name	Run #	K	Est. Ln prob. of data	Mean value of Ln likelihood	Variance of Ln likelihood
+structure_k1-10_f		1	-4084.5	-4051.9	65.1
+structure_k1-2_f		1	-4084.4	-4051.9	65.0
+structure_k1-6_f		1	-4084.4	-4051.9	65.0
+structure_k1-7_f		1	-4084.5	-4051.9	65.2
+structure_k1-9_f		1	-4084.3	-4051.9	64.8
+structure_k1-3_f		1	-4084.3	-4051.9	64.8
+structure_k1-4_f		1	-4084.2	-4051.9	64.8
+structure_k1-1_f		1	-4084.4	-4051.9	65.0
+structure_k1-8_f		1	-4084.1	-4051.9	64.5
+structure_k1-5_f		1	-4084.4	-4051.9	65.0
+structure_k2-9_f		2	-3819.4	-3750.2	138.4
+structure_k2-7_f		2	-3819.7	-3750.2	138.9
+structure_k2-2_f		2	-3819.7	-3750.3	138.9
+structure_k2-5_f		2	-3819.4	-3750.2	138.3
+structure_k2-1_f		2	-3819.7	-3750.3	138.7
+structure_k2-10_f		2	-3819.6	-3750.2	138.8
+structure_k2-8_f		2	-3819.2	-3750.2	138.1
+structure_k2-4_f		2	-3819.7	-3750.3	138.8
+structure_k2-6_f		2	-3819.4	-3750.2	138.4
+structure_k2-3_f		2	-3819.3	-3750.2	138.4
+structure_k3-7_f		3	-3772.1	-3644.5	255.2
+structure_k3-2_f		3	-3771.8	-3644.5	254.6
+structure_k3-3_f		3	-3771.6	-3644.6	254.1
+structure_k3-5_f		3	-3771.2	-3644.4	253.7
+structure_k3-1_f		3	-3772.1	-3644.4	255.6
+structure_k3-6_f		3	-3771.1	-3644.3	253.7
+structure_k3-9_f		3	-3771.4	-3644.4	254.0
+structure_k3-10_f		3	-3770.8	-3644.4	252.9
+structure_k3-8_f		3	-3771.6	-3644.4	254.5
+structure_k3-4_f		3	-3771.0	-3644.4	253.2
+structure_k4-8_f		4	-3743.8	-3595.1	297.3
+structure_k4-6_f		4	-3743.8	-3595.0	297.6
+structure_k4-3_f		4	-3744.6	-3595.1	299.0
+structure_k4-10_f		4	-3762.3	-3597.0	330.6
+structure_k4-5_f		4	-3743.9	-3595.1	297.6
+structure_k4-1_f		4	-3744.3	-3595.2	298.2
+structure_k4-2_f		4	-3744.5	-3595.1	298.7
+structure_k4-9_f		4	-3748.1	-3595.3	305.6
+structure_k4-4_f		4	-3743.7	-3594.9	297.6
+structure_k4-7_f		4	-3743.1	-3594.9	296.3
+structure_k5-1_f		5	-3737.1	-3583.1	308.1
+structure_k5-3_f		5	-3736.7	-3582.8	307.7
+structure_k5-4_f		5	-3738.2	-3583.1	310.2
+structure_k5-2_f		5	-3736.9	-3582.8	308.3
+structure_k5-9_f		5	-3737.5	-3582.9	309.1
+structure_k5-10_f		5	-3737.1	-3583.0	308.3
+structure_k5-6_f		5	-3737.7	-3583.0	309.4
+structure_k5-7_f		5	-3738.4	-3583.0	310.8
+structure_k5-5_f		5	-3737.6	-3583.1	309.1
+structure_k5-8_f		5	-3736.7	-3582.8	307.7
+structure_k6-9_f		6	-3741.2	-3578.8	324.8
+structure_k6-6_f		6	-3740.3	-3578.8	323.0
+structure_k6-2_f		6	-3740.8	-3578.7	324.2
+structure_k6-8_f		6	-3740.2	-3579.0	322.4
+structure_k6-10_f		6	-3741.5	-3578.9	325.1
+structure_k6-1_f		6	-3740.3	-3578.9	322.9
+structure_k6-7_f		6	-3741.8	-3578.8	325.9
+structure_k6-3_f		6	-3739.9	-3578.7	322.4
+structure_k6-5_f		6	-3741.1	-3579.0	324.2
+structure_k6-4_f		6	-3739.8	-3578.8	321.9
+structure_k7-8_f		7	-3747.2	-3575.9	342.5
+structure_k7-3_f		7	-3747.8	-3576.1	343.4
+structure_k7-4_f		7	-3746.6	-3576.0	341.1
+structure_k7-7_f		7	-3747.3	-3575.7	343.3
+structure_k7-9_f		7	-3746.4	-3575.8	341.3
+structure_k7-6_f		7	-3746.4	-3575.9	341.0
+structure_k7-1_f		7	-3747.5	-3575.7	343.6
+structure_k7-5_f		7	-3747.5	-3575.9	343.2
+structure_k7-10_f		7	-3748.8	-3575.9	345.8
+structure_k7-2_f		7	-3745.6	-3575.6	339.9
+structure_k8-5_f		8	-3747.9	-3574.4	347.0
+structure_k8-3_f		8	-3748.1	-3574.1	348.1
+structure_k8-6_f		8	-3747.3	-3574.5	345.7
+structure_k8-1_f		8	-3748.8	-3574.1	349.4
+structure_k8-4_f		8	-3748.3	-3574.0	348.7
+structure_k8-10_f		8	-3748.5	-3574.0	348.9
+structure_k8-9_f		8	-3746.5	-3574.3	344.5
+structure_k8-2_f		8	-3749.3	-3574.4	349.7
+structure_k8-7_f		8	-3748.2	-3574.2	347.9
+structure_k8-8_f		8	-3748.1	-3573.8	348.5
+structure_k9-2_f		9	-3748.3	-3573.0	350.5
+structure_k9-10_f		9	-3747.2	-3573.3	347.9
+structure_k9-8_f		9	-3746.4	-3573.1	346.5
+structure_k9-6_f		9	-3748.2	-3573.2	349.9
+structure_k9-1_f		9	-3747.2	-3573.2	347.9
+structure_k9-7_f		9	-3746.2	-3572.9	346.6
+structure_k9-9_f		9	-3748.9	-3573.4	351.0
+structure_k9-5_f		9	-3747.5	-3573.2	348.6
+structure_k9-3_f		9	-3746.9	-3573.0	347.9
+structure_k9-4_f		9	-3747.8	-3573.2	349.0
+structure_k10-3_f		10	-3747.7	-3572.2	351.0
+structure_k10-7_f		10	-3746.4	-3572.2	348.3
+structure_k10-8_f		10	-3746.0	-3572.1	347.8
+structure_k10-10_f		10	-3746.2	-3572.5	347.5
+structure_k10-2_f		10	-3747.5	-3572.2	350.5
+structure_k10-5_f		10	-3746.5	-3572.3	348.4
+structure_k10-4_f		10	-3747.1	-3572.2	350.0
+structure_k10-9_f		10	-3746.3	-3572.7	347.2
+structure_k10-6_f		10	-3748.0	-3572.3	351.3
+structure_k10-1_f		10	-3746.3	-3572.0	348.5
+structure_k11-8_f		11	-3745.8	-3571.9	347.8
+structure_k11-7_f		11	-3745.7	-3571.8	347.9
+structure_k11-4_f		11	-3745.2	-3571.5	347.4
+structure_k11-5_f		11	-3745.2	-3571.6	347.1
+structure_k11-9_f		11	-3745.7	-3571.8	347.9
+structure_k11-2_f		11	-3745.6	-3571.7	347.9
+structure_k11-1_f		11	-3745.4	-3571.7	347.5
+structure_k11-10_f		11	-3745.7	-3571.9	347.6
+structure_k11-6_f		11	-3744.7	-3571.8	345.6
+structure_k11-3_f		11	-3746.0	-3571.4	349.1
+structure_k12-6_f		12	-3744.2	-3571.2	345.8
+structure_k12-3_f		12	-3744.7	-3571.1	347.3
+structure_k12-8_f		12	-3744.8	-3571.4	346.8
+structure_k12-1_f		12	-3744.3	-3571.0	346.5
+structure_k12-5_f		12	-3744.3	-3571.1	346.4
+structure_k12-2_f		12	-3745.1	-3571.1	348.0
+structure_k12-4_f		12	-3745.6	-3571.3	348.7
+structure_k12-7_f		12	-3744.2	-3571.1	346.2
+structure_k12-10_f		12	-3744.5	-3571.3	346.4
+structure_k12-9_f		12	-3745.6	-3571.4	348.3
+structure_k13-6_f		13	-3743.1	-3570.7	344.7
+structure_k13-5_f		13	-3744.6	-3571.0	347.1
+structure_k13-1_f		13	-3744.9	-3570.8	348.2
+structure_k13-4_f		13	-3743.3	-3570.9	344.8
+structure_k13-7_f		13	-3743.5	-3571.0	345.0
+structure_k13-3_f		13	-3744.2	-3571.2	346.0
+structure_k13-8_f		13	-3744.5	-3570.9	347.2
+structure_k13-2_f		13	-3744.9	-3570.8	348.3
+structure_k13-9_f		13	-3743.1	-3570.6	345.1
+structure_k13-10_f		13	-3744.6	-3570.9	347.4
+structure_k14-7_f		14	-3743.0	-3570.7	344.7
+structure_k14-10_f		14	-3744.2	-3570.6	347.1
+structure_k14-8_f		14	-3743.3	-3570.5	345.5
+structure_k14-6_f		14	-3742.8	-3570.6	344.3
+structure_k14-3_f		14	-3743.0	-3570.4	345.1
+structure_k14-5_f		14	-3744.0	-3570.9	346.4
+structure_k14-4_f		14	-3744.7	-3570.6	348.3
+structure_k14-9_f		14	-3743.1	-3570.6	345.1
+structure_k14-1_f		14	-3742.9	-3570.4	345.0
+structure_k14-2_f		14	-3743.1	-3570.4	345.5
+structure_k15-5_f		15	-3743.5	-3570.5	345.9
+structure_k15-9_f		15	-3742.4	-3570.3	344.2
+structure_k15-8_f		15	-3743.2	-3570.4	345.7
+structure_k15-1_f		15	-3743.6	-3570.0	347.1
+structure_k15-4_f		15	-3742.1	-3570.3	343.5
+structure_k15-3_f		15	-3742.5	-3570.2	344.6
+structure_k15-7_f		15	-3742.6	-3570.1	345.0
+structure_k15-10_f		15	-3790.5	-3664.7	251.6
+structure_k15-6_f		15	-3743.9	-3570.4	346.9
+structure_k15-2_f		15	-3742.7	-3570.0	345.3
+
+Software written by Dent Earl while at EEB Dept, UCLA, BME Dept UCSC
+dearl (a) soe ucsc edu
+CITATION:
+Earl, Dent A. and vonHoldt, Bridgett M. (2012)
+STRUCTURE HARVESTER: a website and program for visualizing
+STRUCTURE output and implementing the Evanno method.
+# Conservation Genetics Resources 4(2) 359-361. DOI: 10.1007/s12686-011-9548-7
+Core version: vA.2 July 2014

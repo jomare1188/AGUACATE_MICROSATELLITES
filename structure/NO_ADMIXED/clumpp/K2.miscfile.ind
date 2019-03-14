@@ -1,0 +1,66 @@
+
+Using the parameter settings in the file: 
+''paramfile''
+
+Parameter settings
+----------------------- Main parameters -------------------------
+DATATYPE = 0
+INDFILE = K2.indfile
+POPFILE = 
+OUTFILE = K2.ind.clumpp.out
+MISCFILE = K2.miscfile.ind
+K = 2
+C = 90
+R = 10
+M = 2
+W = 1
+S = 2
+- Additional options for the Greedy and LargeKGreedy algorithms -
+GREEDY_OPTION = 2
+REPEATS = 1000
+PERMUTATIONFILE = 
+----------------------- Optional outputs ------------------------
+PRINT_PERMUTED_DATA = 1
+PERMUTED_DATAFILE = K4.perm_datafile
+PRINT_EVERY_PERM = 0
+EVERY_PERMFILE = 
+PRINT_RANDOM_INPUTORDER = 0
+RANDOM_INPUTORDERFILE = 
+----------------------- Advanced options ------------------------
+OVERRIDE_WARNINGS = 0
+ORDER_BY_RUN = 1
+
+
+In total, 1000 configurations of runs and clusters will be tested.
+
+Results
+------------------------------
+The highest value of H' is: 0.99910501534882
+
+The list of permutations of the clusters that produces that
+H' value is (runs are listed sequentially on separate rows)
+
+1 2 
+1 2 
+1 2 
+1 2 
+1 2 
+1 2 
+1 2 
+1 2 
+1 2 
+1 2 
+
+The pairwise G' values for each pair of runs where the clusters
+of each run are permuted according to the list of permutations above
+
+1.0000 0.9995 0.9992 0.9998 0.9989 0.9991 0.9991 0.9997 0.9989 0.9994 
+0.9995 1.0000 0.9989 0.9995 0.9985 0.9995 0.9994 0.9995 0.9988 0.9997 
+0.9992 0.9989 1.0000 0.9993 0.9995 0.9985 0.9985 0.9994 0.9985 0.9988 
+0.9998 0.9995 0.9993 1.0000 0.9989 0.9992 0.9991 0.9999 0.9989 0.9995 
+0.9989 0.9985 0.9995 0.9989 1.0000 0.9981 0.9981 0.9990 0.9982 0.9984 
+0.9991 0.9995 0.9985 0.9992 0.9981 1.0000 0.9999 0.9990 0.9990 0.9997 
+0.9991 0.9994 0.9985 0.9991 0.9981 0.9999 1.0000 0.9990 0.9991 0.9996 
+0.9997 0.9995 0.9994 0.9999 0.9990 0.9990 0.9990 1.0000 0.9988 0.9994 
+0.9989 0.9988 0.9985 0.9989 0.9982 0.9990 0.9991 0.9988 1.0000 0.9989 
+0.9994 0.9997 0.9988 0.9995 0.9984 0.9997 0.9996 0.9994 0.9989 1.0000 
